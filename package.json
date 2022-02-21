@@ -49,7 +49,6 @@
     "ssb-uri2": "^1.5.2",
     "ssb-validate": "^4.1.3",
     "ssb-validate2": "~0.1.1",
-    "ssb-validate2-rsjs-node": "^1.0.0",
     "too-hot": "^1.0.0",
     "typedarray-to-buffer": "^4.0.0"
   },
@@ -64,7 +63,7 @@
     "ssb-caps": "1.1.0",
     "ssb-db": "19.3.1",
     "ssb-db2-box2": "^0.5.0",
-    "ssb-fixtures": "3.0.2",
+    "ssb-fixtures": "github:planetary-social/ssb-fixtures",
     "ssb-friends": "5.1.0",
     "ssb-threads": "9.2.0",
     "tap-spec": "^5.0.0",
